@@ -1,7 +1,7 @@
 # Hi there 👋
 
-Hi,eveybody.Welcome to mine github homepage.
-My Name is Gu.and now I am living in tokyo.
+Hi,eveybody.My name is Gu,and now living in tokyo.
+Welcome to mine github homepage.
 I love to talk on trending ⚡ technology ⚡, Connect with me here -
 
 
