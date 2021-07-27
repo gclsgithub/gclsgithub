@@ -1,11 +1,20 @@
 # Hellow EveryBody, 👋 
-# 皆さん、こにちわ。👋 
-[![Mail Badge](https://img.shields.io/badge/-haoruileee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gucanlin@gmail.com)](mailto:gucanlin@gmail.com)
+
+[![Mail Badge](https://img.shields.io/badge/-gucanlin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gucanlin@gmail.com)](mailto:gucanlin@gmail.com)
  ---
 ### I'm GU.
-### 顧燦林ともうします。
 
-- 🔭  I’m currently working as a software engineer in tokyo　for five years.
-- 🔭  東京でソフトウェアエンジニアとして5年間働いています。
+- 🔭 I’m currently working as a software engineer in tokyo　for five years.
+- 🙋 I'm good at java,python and now I often use docker to build mine applications.
+- 💬 Ask me about JAVA, Python and my projects on gucanlin@gmail.com
 
-
+### Languages and Tools
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
