@@ -4,7 +4,7 @@
  ---
 ### I'm GU.
 
-- 🔭 I’m currently working as a software engineer in tokyo　for five years.
+- 🔭 I’m currently working as a software engineer in Tokyo for five years.
 - 🙋 I'm good at java,python and now I often use docker to build mine applications.
 - 💬 Ask me about JAVA, Python and my projects on gucanlin@gmail.com
 
