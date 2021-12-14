@@ -23,4 +23,4 @@
 
 Recently,I have got The Aws sap certification.like the following picture.
 
-![AWS SAP](./image/aws.png "AWS SAP")
+![AWS SAP](./image/aws.jpg "AWS SAP")
